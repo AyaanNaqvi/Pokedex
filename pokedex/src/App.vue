@@ -174,14 +174,14 @@ class="screen"
   width: 100%;
   position: absolute;
   left: 185%;
-  top: 10%;
+  top: 25%;
 ">
     {{pokemon.name}}
   </h1>
 </div>
 <div style="  position: absolute;
   left: 170%;
-  top: 185%;
+  top: 240%;
   ">
     <h1
       style="
@@ -194,7 +194,7 @@ class="screen"
 </div>
 <div style=" position: absolute;
   left: 226%;
-  top: 210%;">
+  top: 240%;">
     <h1
       style="
     font-size: 18px;
