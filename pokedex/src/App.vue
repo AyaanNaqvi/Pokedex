@@ -180,8 +180,8 @@ class="screen"
   </h1>
 </div>
 <div style="  position: absolute;
-  left: 176%;
-  top: 200%;
+  left: 172%;
+  top: 205%;
   ">
     <h1
       style="
@@ -194,7 +194,7 @@ class="screen"
 </div>
 <div style=" position: absolute;
   left: 231%;
-  top: 200%;">
+  top: 205%;">
     <h1
       style="
     font-size: 18px;
