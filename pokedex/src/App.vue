@@ -110,11 +110,12 @@ background-size: 100%;
 top: 35.1%;
 left: 29.9%;
 border-radius: 10px;
-width: 15.2%;
-height: 21%;
-z-index: 1000;
+width: 15.8%;
+height: 22%;
 border: 4px solid black;
+
 ">
+  
 <div v-for="move in pokemon.moves.slice(movesindex,movesindex+3)"
 style="font-size: 125%;
 margin-bottom: 8%;
@@ -173,15 +174,15 @@ class="screen"
       style="
   width: 100%;
   position: absolute;
-  left: 185%;
-  top: 25%;
+  left: 180%;
+  top: 22%;
 ">
     {{pokemon.name}}
   </h1>
 </div>
 <div style="  position: absolute;
-  left: 172%;
-  top: 205%;
+  left: 170%;
+  top: 200%;
   ">
     <h1
       style="
