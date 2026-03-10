@@ -207,7 +207,7 @@ class="screen"
   </h1>
 <div style="position: absolute;
 top: 68.1%;
-right: 548.9%;">
+right: 570.9%;">
 
 </div>
   <div style="position: absolute;
