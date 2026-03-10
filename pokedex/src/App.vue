@@ -113,6 +113,7 @@ border-radius: 10px;
 width: 15.8%;
 height: 22%;
 border: 4px solid black;
+z-index: 1000;
 
 ">
   
@@ -182,7 +183,7 @@ class="screen"
 </div>
 <div style="  position: absolute;
   left: 170%;
-  top: 200%;
+  top: 198%;
   ">
     <h1
       style="
@@ -194,8 +195,8 @@ class="screen"
   </h1>
 </div>
 <div style=" position: absolute;
-  left: 231%;
-  top: 205%;">
+  left: 223%;
+  top: 198%;">
     <h1
       style="
     font-size: 18px;
