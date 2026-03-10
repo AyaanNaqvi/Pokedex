@@ -175,8 +175,8 @@ class="screen"
       style="
   width: 100%;
   position: absolute;
-  left: 172%;
-  top: 19%;
+  left: 170%;
+  top: 17%;
 ">
     {{pokemon.name}}
   </h1>
