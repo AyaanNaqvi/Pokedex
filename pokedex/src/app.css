@@ -60,7 +60,7 @@ body{
   margin:0;
   padding:0;
   font-family:'Pokemon', sans-serif;
-  font-size:12px;
+  font-size: clamp(8px, 1vw, 12px);
   color:gainsboro;
   overflow:hidden;
 }
