@@ -1,3 +1,10 @@
+/* 1. Reset everything to 0 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .pokedex-off{
   background-image: url('/pokedex-off.png');
     background-size: 100% 100%;
@@ -25,13 +32,13 @@ background-size: 100% 100%;
   
 
 }
-html, body {
+#app, html, body {
   margin: 0;
   padding: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background-color: black;
-  overflow: hidden; 
+  overflow: hidden;
 }
 .screen{
 
