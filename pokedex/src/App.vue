@@ -182,12 +182,12 @@ class="screen"
   </h1>
 </div>
 <div style="  position: absolute;
-  left: 170%;
+  left: 167%;
   top: 198%;
   ">
     <h1
       style="
-    font-size: 18px;
+    font-size: 16px;
     color: gainsboro;
 
 ">
@@ -195,11 +195,11 @@ class="screen"
   </h1>
 </div>
 <div style=" position: absolute;
-  left: 223%;
+  left: 220%;
   top: 198%;">
     <h1
       style="
-    font-size: 18px;
+    font-size: 16px;
      color: gainsboro;
 
  
